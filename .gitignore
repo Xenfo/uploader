@@ -1,0 +1,13 @@
+# Ignore Everything
+*
+
+# Unignore needed directories
+!src/
+
+# Unignore needed files
+!src/*
+!package.json
+!yarn.lock
+!.gitignore
+!config.example.json
+!README.md

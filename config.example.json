@@ -1,0 +1,16 @@
+{
+	"serviceUrl": "https://api.upload.systems/images/upload",
+	"userAgent": "mass-uploader",
+	"intervals": {
+		"amount": 15,
+		"timeout": "3m"
+	},
+	"uploadKey": {
+		"name": "key",
+		"value": "189103280948324"
+	},
+	"files": {
+		"name": "file",
+		"directory": "images"
+	}
+}
