@@ -1,5 +1,5 @@
 {
-	"serviceUrl": "https://api.upload.systems/images/upload",
+	"url": "https://api.upload.systems/images/upload",
 	"userAgent": "mass-uploader",
 	"intervals": {
 		"amount": 15,
